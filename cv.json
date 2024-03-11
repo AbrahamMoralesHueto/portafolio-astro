@@ -1,0 +1,29 @@
+{
+    "perfil":{
+        "nombre": "Abraham Morales Hueto",
+        "descripcionCorta": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+        "imagen": "/me.webp",
+        "correo": "miduga@gmail.com",
+        "telefono": "+34 688888888",
+        "url": "https://midu.dev",
+        "descripcionLarga": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+        "ubicacion": {
+            "address": "",
+            "city": "Veracruz",
+            "countryCode": "VER",
+            "region": "México"
+        },
+        "redes-sociales": [
+            {
+                "network": "LinkedIn",
+                "username": "midudev",
+                "url": "https://linkedin.com/in/midudev"
+            },
+            {
+                "network": "GitHub",
+                "username": "midudev",
+                "url": "https://github.com/midudev"
+            }
+        ]
+    }
+}
